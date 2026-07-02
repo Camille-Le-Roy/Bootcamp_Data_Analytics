@@ -1,6 +1,8 @@
-# Python Data Analytics Bootcamp Overview
+# Python Data Analytics Bootcamp
 
-The Python Bootcamp is an intensive 16-week program designed to develop experts capable of solving complex problems using advanced data techniques and cutting-edge algorithms. The curriculum guides participants through a complete data project lifecycle, progressing from foundational software engineering to cloud-scale production deployment.
+This repository contains the educational content, curriculum architecture, and code frameworks that I built and taught in the context of my work as a Data Analytics Instructor.
+
+The modules transition from core object-oriented program design to performance optimization, geospatial analysis, and interactive data storytelling.
 
 ---
 
