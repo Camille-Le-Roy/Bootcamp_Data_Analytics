@@ -2,8 +2,6 @@
 
 This repository contains the educational content, curriculum architecture, and code frameworks that I built and taught in the context of my work as a Data Analytics Instructor.
 
-The modules transition from core object-oriented program design to performance optimization, geospatial analysis, and interactive data storytelling.
-
 ---
 
 ## Core Pillars of the Curriculum
